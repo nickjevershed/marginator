@@ -1,6 +1,6 @@
 # Classify points into Australian federal electorates
 
-A function that takes a csv of locations and checks which electorate they fall into, then adds the electorate name, margin from preceding election and incumbent party. The function takes two arguments, year and inputFile location. 
+A Python function that takes a csv of locations and checks which electorate they fall into, then adds the electorate name, margin from preceding election and incumbent party. The function takes two arguments, year and inputFile location. 
 
 The inputFile should have a row for each location, with a seperate column "lat" and "lon" for each.
 
