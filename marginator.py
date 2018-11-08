@@ -42,5 +42,5 @@ def assignMargin(year,inputFile):
 			writer.writeheader()
 			writer.writerows(newrows)
 
-
-assignMargin('2016','input-2.csv')
+# Example of use
+# assignMargin('2016','input.csv')
